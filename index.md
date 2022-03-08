@@ -1,24 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to Kanchanasuda (กาญจนสุดา ผุยมูลตรี)
 
- 👋 Hi, I’m @Kanchanasuda
+สวัสดีค่ะ 
+
+ฉันชื่อกาญจนสุดา ผุยมูลตรี ตอนนี้อายุ 21 ปี กำลังเรียนอยู่ปี2 มหาวิทยาลัยขอนแก่น ในประเทศไทย
+
+
+ 👋 Hi, I’m Kanchanasuda
  
  👀 I’m interested in data science 
  
-🌱 I’m currently learning data science 
+🌱 I’m studying sophomore B.Sc. Statistics and Data Science 
+   Major : Statistical Information and Data Science.
 
-Headline
+-----------------------------------------------
 
 Name: miss Kanchanasuda Phuimuntree
 
 Nickname: Lin 
 
-Age: 20
+Age: 21
 
 Nationality: Thai 
 
 Blood's Group: A
 
+------------------------------------------------
+In the future, I would like to work in the field of data science because I like to think analytically and always want a challenging job. And I think that in the future, data-related careers will be more in demand.
 
-Biography
-I am studying sophomore B.Sc. Statistics and Data Science Major Statistical Information and Data Science.
+
 
