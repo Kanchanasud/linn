@@ -1,35 +1,24 @@
 ## Welcome to GitHub Pages
 
  👋 Hi, I’m @Kanchanasuda
+ 
  👀 I’m interested in data science 
+ 
 🌱 I’m currently learning data science 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Headline
 
-```markdown
-Syntax highlighted code block
+Name: miss Kanchanasuda Phuimuntree
 
-# Header 1
-## Header 2
-### Header 3
+Nickname: Lin 
 
-- Bulleted
-- List
+Age: 20
 
-1. Numbered
-2. List
+Nationality: Thai 
 
-**Bold** and _Italic_ and `Code` text
+Blood's Group: A
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Biography
+I am studying sophomore B.Sc. Statistics and Data Science Major Statistical Information and Data Science.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kanchanasud/linn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
